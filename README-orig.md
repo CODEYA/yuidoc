@@ -1,10 +1,6 @@
 YUIDoc
 ======
 
-Fork
---------
-This repository is forked from YUIDoc.
-
 YUI's JavaScript Documentation engine.
 
 [![npm Version](https://img.shields.io/npm/v/yuidocjs.svg?style=flat-square)](https://www.npmjs.org/package/yuidocjs)
