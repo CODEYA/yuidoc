@@ -1,19 +1,6 @@
 YUIDoc
 ======
 
-Fork
---------
-This repository is forked from YUIDoc and enhances it to puts the add-on code.
-Add-on example is set to yuidoc-codeya/addon and themes/addon-example directory.
-If you try example code, write `@id` or `@note` comment to your js file and run command below.
-
-    % yuidoc --addondir /path-to-yuidocjs-codeya/addons --theme addon-example js-file-dir -o
-
-You can extend YUIDoc functionality to write your own addon and theme, and run like this.
-
-    % yoidoc --addondir your-addon-dir --themedir your-theme-dir js-file-dir
-
-
 YUI's JavaScript Documentation engine.
 
 [![npm Version](https://img.shields.io/npm/v/yuidocjs.svg?style=flat-square)](https://www.npmjs.org/package/yuidocjs)
